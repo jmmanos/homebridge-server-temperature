@@ -6,7 +6,8 @@
     "type": "git",
     "url": "git://github.com/jmmanos/homebridge-server-temperature.git"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
+  "files": ["dist"],
   "scripts": {
     "dev": "rollup -c -w",
     "build": "rollup -c",
