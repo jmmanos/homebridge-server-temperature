@@ -12,7 +12,7 @@
     "build": "rollup -c",
     "prepublishOnly": "npm run build"
   },
-  "keywords": [],
+  "keywords": ["homebridge-plugin"],
   "author": "jmmanos",
   "license": "ISC",
   "devDependencies": {
