@@ -12,6 +12,7 @@ export default {
     plugins: [
         resolve({
             jsnext: true,
+            preferBuiltins: true,
             extensions
         }),
         babel({

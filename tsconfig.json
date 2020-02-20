@@ -3,7 +3,7 @@
     "allowJs": false,
     "esModuleInterop": true,
     "isolatedModules": true,
-    "lib": ["esnext"]
+    "lib": ["esnext"],
     "module": "ESNext",
     "moduleResolution": "Node",
     "noEmit": true,
